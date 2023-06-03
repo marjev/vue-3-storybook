@@ -31,7 +31,8 @@
     "chromatic": "^6.18.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.0.18"
+    "storybook": "^7.0.18",
+    "vite": "^4.3.9"
   },
   "readme": "ERROR: No README data found!",
   "_id": "storybook@1.0.0"
