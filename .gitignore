@@ -2,3 +2,5 @@ node_modules
 
 .cache
 storybook-static/
+
+build-storybook.log
