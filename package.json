@@ -32,7 +32,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.0.18",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "vue": "^3.3.4"
   },
   "readme": "ERROR: No README data found!",
   "_id": "storybook@1.0.0"
